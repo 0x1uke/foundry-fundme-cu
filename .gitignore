@@ -1,0 +1,26 @@
+# Compiler files
+cache/
+out/
+zkout/
+
+# Ignores broadcast logs
+broadcast/
+
+# Gas Snapshot
+.gas-snapshot
+
+# Docs
+docs/
+
+# Lib
+lib/
+
+# Dotenv file
+.env
+
+# IDEs
+.vscode
+.idea
+
+# Host Files
+.DS_Store
